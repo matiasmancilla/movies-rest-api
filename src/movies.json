@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Matrix",
+    "releaseDate": "1999-07-14",
+    "synopsis": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "releaseDate": "1972-09-20",
+    "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 3,
+    "title": "Forrest Gump",
+    "releaseDate": "1994-10-06",
+    "synopsis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+  },
+  {
+    "id": 4,
+    "title": "Interstellar",
+    "releaseDate": "2014-11-06",
+    "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity survival."
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "releaseDate": "1995-02-16",
+    "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  }
+]
